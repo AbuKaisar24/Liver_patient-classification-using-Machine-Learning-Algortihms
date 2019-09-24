@@ -1,1 +1,1 @@
-# Liver_patient-classification-usingMachine-Learning-Algortihms
+# Liver_patient-classification-using-Machine-Learning-Algortihms
